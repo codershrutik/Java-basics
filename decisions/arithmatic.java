@@ -5,5 +5,8 @@ public class arithmatic{
 
         int mod = 13%2;
         System.out.println(mod);
+        for(int i=0;i<10;i++){
+            System.out.println(i);
+        }
     }
 }
